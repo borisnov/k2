@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"main","l":"Aplikacija"},{"p":"model","l":"Clan"},{"p":"model","l":"ClanskaKarta"},{"p":"model","l":"KonkurentnaTeretana"},{"p":"model","l":"Teretana"},{"p":"model","l":"VrstaClanarine","k":"9"}];updateSearchResults();

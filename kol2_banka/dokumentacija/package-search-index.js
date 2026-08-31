@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"m":"kol2_banka","l":"main"},{"m":"kol2_banka","l":"model"}];updateSearchResults();

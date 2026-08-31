@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"main","l":"Aplikacija"},{"p":"model","l":"Glumac"},{"p":"model","l":"KonkurentnoPozoriste"},{"p":"model","l":"Pozoriste"},{"p":"model","l":"Predstava"},{"p":"model","l":"TipUloge","k":"9"},{"p":"model","l":"Uloga"}];updateSearchResults();

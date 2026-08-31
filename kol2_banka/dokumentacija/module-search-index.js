@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"kol2_banka"}];updateSearchResults();
